@@ -15,7 +15,7 @@ The code to produce these CV's can be found in their respective `.Rmd` files.
 
 ### Acknowledgements
 
-These CV's were produced with the [pagedown])(https://cran.r-project.org/web/packages/pagedown/index.html) R package using `pagedown::html_resume`.
+These CV's were produced with the [pagedown](https://cran.r-project.org/web/packages/pagedown/index.html) R package using `pagedown::html_resume`.
 
 A template was downloaded from [Connor Gilroy](https://github.com/ccgilroy/resume) who additionally acknowledges [Nick Strayer](https://github.com/nstrayer/cv) as a source of inspiration. Additional thanks go to [Shea O'Connell](https://github.com/Shedimus) for bringing this package to my attention. 
 
@@ -23,4 +23,5 @@ This repository has been adapted from Connor Gilroy's in the following ways:
 
 - Use of [academicons](https://github.com/jpswalsh/academicons/blob/master/css/academicons.css) for additional logos such as ORCID and open-access logos
 - Production of both a one page and a multi-page CV
+- Removal of logo, `fix_icons.html` and other files
 - Minor cosmetic differences

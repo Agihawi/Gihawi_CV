@@ -7,8 +7,6 @@ output:
     css: ['css/styles.css', 'resume', 'css/academicons.css', 'css/index_files/font-awesome-5.1.0/css/all.css']
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
-    includes:
-      after_body: fix_icons.html
 ---
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
@@ -65,7 +63,8 @@ References
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-Last updated on `r Sys.Date()`.
+Code: [github.com/Agihawi/Gihawi_CV](https://github.com/Agihawi/Gihawi_CV)
+Last updated: `r Sys.Date()`
 
 
 
