@@ -1,0 +1,186 @@
+---
+title: "Abraham Gihawi - Curriculum Vitae"
+author: Abraham Gihawi
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['css/styles.css', 'resume', 'css/academicons.css', 'css/index_files/font-awesome-5.1.0/css/all.css']
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    includes:
+      after_body: fix_icons.html
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+#remotes::install_github("rstudio/fontawesome")
+library(fontawesome)
+```
+
+Aside
+================================================================================
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> [AbrahamGihawi@hotmail.com](mailto::a.gihawi@uea.ac.uk)
+- <i class="fa fa-github"></i> [Agihawi](https://github.com/Agihawi)
+- <i class="fa fa-twitter"></i> [\@AbrahamGihawi](https://twitter.com/AbrahamGihawi)
+- <i class="fa fa-phone"></i> +44 7793068331
+- <i class="ai ai-orcid"></i> [ORCID](https://orcid.org/0000-0002-3676-5561)
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+**Programming:** R, Python, Unix
+
+**Expertise:**
+
+- Computational Pipelines
+- Microbial Bioinformatics 
+- High Performance Computing
+- Dimensionality Reduction
+- Translational Cancer Research
+
+
+Conferences 
+--------------------------------------------------------------------------------
+
+Posters:
+
+* [NCRN Symposium (2020)](https://agihawi.github.io/ncrn_poster/) `r fa("trophy", fill = "gold")`
+* [Genomics England (2019)](https://github.com/Agihawi/Gel_Conference_Poster_1/blob/master/Posterdown.pdf)
+* [EMBL Heidelberg (2018)](https://www.embo-embl-symposia.org/symposia/2018/EES18-09/index.html)
+
+Talks:
+
+* [NCRN (2021)](https://twitter.com/CancerInNorwich/status/1353738228625514500)
+* UEA PGR Conference (2018)
+
+References
+--------------------------------------------------------------------------------
+[Prof. Daniel Brewer](https://people.uea.ac.uk/d_brewer) D.Brewer@uea.ac.uk
+
+[Prof. Colin Cooper](https://people.uea.ac.uk/colin_cooper) Colin.Cooper@uea.ac.uk
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Abraham Gihawi {#title}
+--------------------------------------------------------------------------------
+
+### Computational Biologist
+
+An interdisciplinary scientist in cancer microbial bioinformatics seeking the next step.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### PhD Computational Biology
+
+Thesis: Searching for Pathogens in Cancer Sequence Data
+
+UEA
+
+2021 - 2017
+
+### MSc, Cancer Therapeutics - Distinction - 80%
+
+Project: PHLDA1 in FGFR Inhibitor Resistant Cancer
+
+QMUL
+
+2017 - 2015
+
+### BSc (hons) Biomedical Science - 69%
+
+Project: A Portable Test for Bacteria & Urobilinogen in Urine
+
+Lincoln
+
+2014 - 2011
+
+
+
+Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Post-Doctoral Senior Bioinformatics Officer
+
+Cancer Genetics and Metagenomics
+
+UEA
+
+- Investigating links between pathogens and aggressive prostate cancer
+
+2021 - 2022
+
+### Medical Laboratory Assistant
+
+Royal Sussex County Hospital
+
+Brighton
+
+2017 - 2015
+
+- Processed and analysed clinical samples in adherence with trial protocols
+
+### Health Advisor NHS 111
+
+Care UK 
+
+Dorking
+
+2015 - 2014
+
+- Triaged patients and provided healthcare advice via telephone
+
+### NHS Experience Placements
+
+Princess Diana & Scunthorpe General
+
+Grimsby & Scunthorpe
+
+2014 - 2013
+
+- Departments including: Radiology, Nuclear Medicine, Cardiology, Pathology (Biochemistry, Haematology, Transfusion, Andrology, Virology)
+
+Publications {data-icon=book}
+--------------------------------------------------------------------------------
+
+### <i class="ai ai-open-access"></i> SEPATH: benchmarking the search for pathogens in human tissue whole genome sequence data leads to template pipelines 
+
+Genome Biology
+
+DOI: [10.1186/s13059-019-1819-8](https://doi.org/10.1186/s13059-019-1819-8)
+
+2019
+
+
+**Abraham Gihawi**, Ghanasyam Rallapalli, Rachel Hurst... Daniel S. Brewer 
+
+
+### <i class="ai ai-open-access"></i> Potential for diagnosis of infectious disease from the 100,000 Genomes Project Metagenomic Dataset: Recommendations for reporting results
+
+Wellcome Open Research
+
+DOI: [10.12688/wellcomeopenres.15499.1](https://doi.org/10.12688/wellcomeopenres.15499.1)
+
+2019
+
+Gkikas Magiorkinis... **Abraham Gihawi**... Colin Cooper.
+
+
+Other
+--------------------------------------------------------------------------------
+
+**Successful Grants:** *"Unravelling how bacterial infection drives the development of aggressive prostate cancer"* - Prostate Cancer UK
+
+**Peer Review:** Genome Biology (BMC), Genomics (Elsevier)
+
