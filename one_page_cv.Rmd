@@ -25,12 +25,11 @@ Contact {#contact}
 - <i class="fa fa-twitter"></i> [\@AbrahamGihawi](https://twitter.com/AbrahamGihawi)
 - <i class="fa fa-phone"></i> +44 7793068331
 - <i class="ai ai-orcid"></i> [ORCID](https://orcid.org/0000-0002-3676-5561)
+- <i class="fab fa-linkedin-in"></i> [LinkedIn](https://www.linkedin.com/in/abraham-gihawi-887954a6/)
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 **Programming:** R, Python, Unix
-
-**Expertise:**
 
 - Computational Pipelines
 - Microbial Bioinformatics 
@@ -44,14 +43,15 @@ Conferences
 
 Posters:
 
-* [NCRN Symposium (2020)](https://agihawi.github.io/ncrn_poster/) `r fa("trophy", fill = "gold")`
-* [Genomics England (2019)](https://github.com/Agihawi/Gel_Conference_Poster_1/blob/master/Posterdown.pdf)
-* [EMBL Heidelberg (2018)](https://www.embo-embl-symposia.org/symposia/2018/EES18-09/index.html)
+[EACR Bioinformatics in Cancer, 2021](https://github.com/UEA-Cancer-Genetics-Lab/EACR_Bioinformatics_2021/blob/master/Poster.pdf) <br>
+[NCRN Symposium, 2020](https://agihawi.github.io/ncrn_poster/) `r fa("trophy", fill = "gold")` <br>
+[Genomics England, 2019](https://github.com/Agihawi/Gel_Conference_Poster_1/blob/master/Posterdown.pdf) <br>
+[EMBL Heidelberg, 2018](https://www.embo-embl-symposia.org/symposia/2018/EES18-09/index.html)
 
 Talks:
 
-* [NCRN (2021)](https://twitter.com/CancerInNorwich/status/1353738228625514500)
-* UEA PGR Conference (2018)
+[NCRN (2021)](https://twitter.com/CancerInNorwich/status/1353738228625514500) <br>
+UEA PGR Conference (2018)
 
 References
 --------------------------------------------------------------------------------
@@ -78,12 +78,20 @@ Abraham Gihawi {#title}
 
 An interdisciplinary scientist in cancer microbial bioinformatics seeking the next step.
 
-Education {data-icon=graduation-cap data-concise=true}
+Academia {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
+
+### Senior Bioinformatics Officer
+
+Unravelling the link between bacteria and aggressive prostate cancer
+
+UEA
+
+2021 - 2022
 
 ### PhD Computational Biology
 
-Thesis: Searching for Pathogens in Cancer Sequence Data
+Searching for Pathogens in Cancer Sequence Data
 
 UEA
 
@@ -110,16 +118,6 @@ Lincoln
 Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Post-Doctoral Senior Bioinformatics Officer
-
-Cancer Genetics and Metagenomics
-
-UEA
-
-- Investigating links between pathogens and aggressive prostate cancer
-
-2021 - 2022
-
 ### Medical Laboratory Assistant
 
 Royal Sussex County Hospital
@@ -132,7 +130,7 @@ Brighton
 
 ### Health Advisor NHS 111
 
-Care UK 
+Care UK
 
 Dorking
 
