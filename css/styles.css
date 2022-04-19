@@ -28,8 +28,10 @@ a:link {
   color: #6c71c4; 
 }
 
+/* font size added 22 Dec 2021 */
 .aside {
   height: 100%;
+  font-size:  10px;
 }
 
 /* Avoid the breaking within a section */
@@ -44,19 +46,20 @@ a:link {
 
 /* Override default margins */
 * {
-  --pagedjs-margin-right: 0.2in;
-  --pagedjs-margin-left: 0.2in;
-  --pagedjs-margin-top: 0.8in;
-  --pagedjs-margin-bottom: 0.2in;
+  --pagedjs-margin-right: 0.1in;
+  --pagedjs-margin-left: 0.1in;
+  --pagedjs-margin-top: 0.1in;
+  --pagedjs-margin-bottom: 0.1in;
 }
 
 /* Customize some of the sizing variables */
 :root {
-  --sidebar-width: 14rem; /* Shrink sidebar width  */
+  --sidebar-width: 12rem; /* Shrink sidebar width  */
   --sidebar-background-color: #E7F8FC;  /* Make sidebar solarized previous colour - fdf6e3 */ 
   --sidebar-horizontal-padding: 0.001in; /* Reduce sidebar padding */
   --decorator-border: 1px solid #6c71c4; /* Make timeline solarized violet */
 }
+
 
 /* adjust list for workshops section in sidebar */
 #workshops li::before {
@@ -69,3 +72,5 @@ a:link {
   margin: 0.05in 0.05in 0.15in;
   padding: 0;
 }
+
+
